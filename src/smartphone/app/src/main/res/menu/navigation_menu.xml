@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuProfile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map"
+        android:title="Google maps"/>
+
+    <item
+        android:id="@+id/createStatement"
+        android:icon="@drawable/ic_baseline_create_new_folder_24"
+        android:title="Create a Statement Folder"/>
+
+    <item
+        android:id="@+id/reviewStatement"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        android:title="Review your statement folders"/>
+
+    <item android:title="Others">
+
+        <menu>
+            <item
+                android:id="@+id/menuSettings"
+                android:icon="@drawable/ic_settings"
+                android:title="Settings" />
+
+            <item
+                android:id="@+id/menuSupport"
+                android:icon="@drawable/ic_support"
+                android:title="Support" />
+
+            <item
+                android:id="@+id/menuAboutUs"
+                android:icon="@drawable/ic_aboutus"
+                android:title="About us" />
+
+        </menu>
+
+    </item>
+</menu>

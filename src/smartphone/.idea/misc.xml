@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/drawable/ic_add.xml" value="0.23" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/drawable/ic_greenflag.xml" value="0.253" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/activity_first.xml" value="0.2671875" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/activity_maps.xml" value="0.18802083333333333" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/activity_register.xml" value="0.253125" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/fragment_create_statement.xml" value="0.5" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/fragment_map.xml" value="0.1" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/fragment_maps.xml" value="0.12182971014492754" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/fragment_profile.xml" value="0.39791666666666664" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/layout/layout_navigation_header.xml" value="0.3125" />
+        <entry key="..\:/SxediasiProject/res-mapping-project-chris-tsotras-icsd17206/src/smartphone/app/src/main/res/menu/navigation_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

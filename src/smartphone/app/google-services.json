@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494788802790",
+    "project_id": "sxediasiproject",
+    "storage_bucket": "sxediasiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494788802790:android:cd318a42fa99676d5aa327",
+        "android_client_info": {
+          "package_name": "com.example.sxediasipriject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494788802790-g6nrdk84lnd9kvslhnov3p44cl1fq1aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwjqzzjg66T4wMXRHhIRCxexMI2Zm5pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494788802790-g6nrdk84lnd9kvslhnov3p44cl1fq1aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

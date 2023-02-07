@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuProfile">
+    <fragment
+        android:id="@+id/menuProfile"
+        android:name="com.example.sxediasipriject.ProfileFragment"
+        android:label="Profile" />
+    <fragment
+        android:id="@+id/map"
+        android:name="com.example.sxediasipriject.MapFragment"
+        android:label="Maps"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/createStatement"
+        android:name="com.example.sxediasipriject.createStatementFragment"
+        android:label="Create Statement"
+        tools:layout="@layout/fragment_create_statement" />
+
+    <fragment
+        android:id="@+id/reviewStatement"
+        android:name="com.example.sxediasipriject.ReviewStatements"
+        android:label="Review Statement"
+        tools:layout="@layout/fragment_review_statements" />
+</navigation>
